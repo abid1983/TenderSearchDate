@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Abid
+Build-Jdk: 11.0.2
+Implementation-Title: TenderSearchDate
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tender
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/TenderSearchDate
+Created-By: Maven Integration for Eclipse
+
